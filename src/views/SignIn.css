@@ -1,0 +1,13 @@
+.Form {
+    margin-top: 100px;
+}
+
+.form-group {
+    margin-top: 10px;
+    justify-content: center;
+    gap: 10px;
+}
+
+.form-input {
+    width: 180px;
+}
